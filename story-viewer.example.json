@@ -1,0 +1,8 @@
+{
+  "source_mode": "users",
+  "threads": 5,
+  "view_delay_from": 8,
+  "view_delay_to": 20,
+  "stories_per_account_min": 1,
+  "stories_per_account_max": 3
+}
