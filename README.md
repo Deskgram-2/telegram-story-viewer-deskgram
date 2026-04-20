@@ -1,13 +1,13 @@
-# Просмотр сторис в Telegram через Deskgram 2
+﻿# Просмотр сторис в Telegram через Deskgram 2
 
 Просмотр сторис в Deskgram 2 помогает массово запускать stories-активность по спискам пользователей или групп. Модуль полезен, когда просмотр сторис нужен как отдельный рабочий слой: для поддержки активности аккаунтов, мягкого охвата и stories-сценариев в масштабе.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
 ## Интерактивный Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fview_stories)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fview_stories&lang=ru)
 
-Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fview_stories)
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fview_stories&lang=ru)
 
 
 
@@ -147,3 +147,4 @@
 ### Что сильнее всего влияет на stories-view сценарий?
 
 Чаще всего это качество базы пользователей или групп, темп выполнения, уместность реакций и то, встроен ли stories-layer в общую поведенческую стратегию аккаунтов.
+
