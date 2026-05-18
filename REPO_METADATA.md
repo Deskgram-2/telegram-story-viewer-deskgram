@@ -1,11 +1,11 @@
 # Repo Metadata
 
-## Основное
+## 
 
 - proposed_repo: `telegram-story-viewer-deskgram`
 - language: `ru`
-- role: продуктовый гайд по массовому просмотру Telegram-сторис
-- primary_keyword: `просмотр сторис telegram`
+- role:      Telegram-
+- primary_keyword: `  telegram`
 - secondary_keywords:
   - `telegram story viewer`
   - `view telegram stories`
@@ -14,7 +14,7 @@
 
 ## GitHub Description
 
-Просмотр сторис в Deskgram 2: пользователи и группы, режимы источников, потоки, задержки, реакции, статистика и Telegram story viewer workflow.
+   Deskgram 2:   ,  , , , ,   Telegram story viewer workflow.
 
 ## Topics
 
